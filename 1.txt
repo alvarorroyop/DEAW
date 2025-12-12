@@ -1,1 +1,1 @@
-"Cambio conflictivo desde main" 
+Cambio final: main + v0.2
